@@ -1,5 +1,6 @@
 # Mondrian-style-grid-project-using-HTML-CSS-Grid
-Basic Mondrian-style grid project using HTML &amp; CSS Grid, created during Dr. Angela Yu’s Complete 2023 Web Development Course.
+A basic Mondrian-style grid layout built using **HTML5** and **CSS Grid**.  
+This project is a direct implementation of the concepts taught in Dr. Angela Yu’s Complete 2023 Web Development Course.
 
  🔧 Technologies Used
 
