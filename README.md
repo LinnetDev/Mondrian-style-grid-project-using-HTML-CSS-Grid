@@ -12,6 +12,8 @@ This project is a direct implementation of the concepts taught in Dr. Angela Yuâ
 ![Screenshot of the Mondrian Project](screenshot.png)
 
 
+[Mondrian-style-grid-project](https://linnetdev.github.io/Mondrian-style-grid-project-using-HTML-CSS-Grid/)
+
 ## ðŸ“š What I Learned
 
 - How to use `grid-template-rows` and `grid-template-columns`
